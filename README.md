@@ -1,5 +1,4 @@
 # Prashant-demo
 
-this is my first project
-
+this is my first git repository
 author - prashant jadhav
